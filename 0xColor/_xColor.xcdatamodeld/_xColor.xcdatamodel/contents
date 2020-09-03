@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ColorSave" representedClassName="ColorSave" syncable="YES" codeGenerationType="class">
+        <attribute name="blue" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="blueFraction" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="green" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="greenFraction" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="hexCode" attributeType="String"/>
+        <attribute name="red" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="redFraction" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="ColorSave" positionX="-63" positionY="-18" width="128" height="148"/>
+    </elements>
 </model>
