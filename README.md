@@ -12,4 +12,4 @@ appropriate hexadecimal code to display this color.
 5) Actively select a color from your saved colors to retouch it, if you want a different, but similar color
 
 
-![0xColor screenshot](https://github.com/RyanSMcKenzie/0xColor/blob/master/Screen%20Shot%202020-09-03%20at%203.19.14%20PM.png)
+![0xColor screenshot](https://github.com/RyanSMcKenzie/0xColor/blob/master/Screen%20Shot%202020-09-03%20at%203.23.17%20PM.png)
